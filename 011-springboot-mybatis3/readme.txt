@@ -1,0 +1,1 @@
+mapper文件放到resources里面，就可以不用手动指定为resources文件了

@@ -1,0 +1,4 @@
+实际开发中可能有多种环境，每种环境会对应一种配置文件
+命名格式为application-xxx.properties
+在使用时需要在application.properties中激活相应的环境
+需要在pom中添加一个插件

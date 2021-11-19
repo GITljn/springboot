@@ -1,0 +1,12 @@
+1、@RestController
+相当于在类上加@Controller并且在方法上加@ResponseBody
+2、@RequestMapping
+默认支持get和post
+3、@GetMapping
+只支持get请求，通常在查询数据时使用
+4、@PostMapping
+只支持post请求，通常在新增数据或者查询的内容有敏感信息中使用
+5、@DeleteMapping
+6、@PutMapping
+通常在修改数据的时候使用
+对应method=RequestMethod.PUT

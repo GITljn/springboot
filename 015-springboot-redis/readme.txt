@@ -1,0 +1,1 @@
+springboot继承redis提供的工具类RedisTemplate

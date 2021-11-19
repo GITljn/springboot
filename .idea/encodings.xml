@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/001-springboot-first/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/002-springboot-springmvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/003-springboot-context-path/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/004-springboot-properties-yml-yaml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/005-springboot-multi-environment-properties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/006-springboot-user-defined-configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/007-springboot-user-defined-configuration-object1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/008-springboot-jsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/009-springboot-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/010-springboot-mybatis2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/011-springboot-mybatis3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/012-springboot-mybatis4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/013-springboot-transaction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/014-springboot-springmvc-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/015-springboot-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/016-springboot-dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/018-springboot-dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/019-springboot-dubbo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/020-springboot-dubbo-mybatis-redis-spring-springmvc-jsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/021-springboot-dubbo-ssm-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/022-springboot-dubbo-ssm-provicer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/023-springboot-dubbo-ssm-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/024-springboot-interceptor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/025-springboot-filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/026-springboot-character-encoding/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/027-springboot-war/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/028-springboot-jar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/029-springboot-thymeleaf-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/030-springboot-expression/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/032-springboot-dubbo-ssm-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/033-springboot-dubbo-ssm-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/033-springboot-dubbo-ssm-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/034-springboot-dubbo-ssm-consumer/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="006-springboot-user-defined-configuration" />
+        <module name="026-springboot-character-encoding" />
+        <module name="033-springboot-dubbo-ssm-provider" />
+        <module name="007-springboot-user-defined-configuration-object1" />
+        <module name="022-springboot-dubbo-ssm-provicer" />
+        <module name="011-springboot-mybatis3" />
+        <module name="010-springboot-mybatis2" />
+        <module name="018-springboot-dubbo-provider" />
+        <module name="025-springboot-filter" />
+        <module name="024-springboot-interceptor" />
+        <module name="023-springboot-dubbo-ssm-consumer" />
+        <module name="020-springboot-dubbo-mybatis-redis-spring-springmvc-jsp" />
+        <module name="003-spring-third" />
+        <module name="034-springboot-dubbo-ssm-consumer" />
+        <module name="004-springboot" />
+        <module name="021-springboot-dubbo-ssm-interface" />
+        <module name="030-springboot-expression" />
+        <module name="016-springboot-dubbo" />
+        <module name="012-springboot-mybatis4" />
+        <module name="004-springboot-properties-yml-yaml" />
+        <module name="008-springboot-jsp" />
+        <module name="014-springboot-springmvc-annotation" />
+        <module name="028-springboot-jar" />
+        <module name="029-springboot-thymeleaf-1" />
+        <module name="009-springboot-mybatis" />
+        <module name="015-springboot-redis" />
+        <module name="017-springboot-dubbo-interface" />
+        <module name="002-springboot-springmvc" />
+        <module name="032-springboot-dubbo-ssm-interface" />
+        <module name="001-springboot-first" />
+        <module name="005-springboot-multi-environment-properties" />
+        <module name="019-springboot-dubbo-consumer" />
+        <module name="002-springboot-second" />
+        <module name="013-springboot-transaction" />
+        <module name="027-springboot-war" />
+        <module name="003-springboot-context-path" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="001-springboot-first" target="1.8" />
+      <module name="002-springboot-second" target="1.8" />
+      <module name="002-springboot-springmvc" target="1.8" />
+      <module name="003-spring-third" target="1.8" />
+      <module name="003-springboot-context-path" target="1.8" />
+      <module name="004-springboot" target="1.8" />
+      <module name="004-springboot-properties-yml-yaml" target="1.8" />
+      <module name="005-springboot-multi-environment-properties" target="1.8" />
+      <module name="006-springboot-user-defined-configuration" target="1.8" />
+      <module name="007-springboot-user-defined-configuration-object1" target="1.8" />
+      <module name="008-springboot-jsp" target="1.8" />
+      <module name="009-springboot-mybatis" target="1.8" />
+      <module name="010-springboot-mybatis2" target="1.8" />
+      <module name="011-springboot-mybatis3" target="1.8" />
+      <module name="012-springboot-mybatis4" target="1.8" />
+      <module name="013-springboot-transaction" target="1.8" />
+      <module name="014-springboot-springmvc-annotation" target="1.8" />
+      <module name="015-springboot-redis" target="1.8" />
+      <module name="016-springboot-dubbo" target="1.8" />
+      <module name="017-springboot-dubbo-interface" target="1.5" />
+      <module name="018-springboot-dubbo-provider" target="1.8" />
+      <module name="019-springboot-dubbo-consumer" target="1.8" />
+      <module name="020-springboot-dubbo-mybatis-redis-spring-springmvc-jsp" target="1.8" />
+      <module name="021-springboot-dubbo-ssm-interface" target="1.5" />
+      <module name="022-springboot-dubbo-ssm-provicer" target="1.8" />
+      <module name="023-springboot-dubbo-ssm-consumer" target="1.8" />
+      <module name="024-springboot-interceptor" target="1.8" />
+      <module name="025-springboot-filter" target="1.8" />
+      <module name="026-springboot-character-encoding" target="1.8" />
+      <module name="027-springboot-war" target="1.8" />
+      <module name="028-springboot-jar" target="1.8" />
+      <module name="029-springboot-thymeleaf-1" target="1.8" />
+      <module name="030-springboot-expression" target="1.8" />
+      <module name="031-springboot-parent" target="1.8" />
+      <module name="032-springboot-dubbo-ssm-interface" target="1.8" />
+      <module name="033-springboot-dubbo-ssm-provider" target="1.8" />
+      <module name="034-springboot-dubbo-ssm-consumer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="001-springboot-first" options="-parameters" />
+      <module name="002-springboot-second" options="-parameters" />
+      <module name="002-springboot-springmvc" options="-parameters" />
+      <module name="003-spring-third" options="-parameters" />
+      <module name="003-springboot-context-path" options="-parameters" />
+      <module name="004-springboot" options="-parameters" />
+      <module name="004-springboot-properties-yml-yaml" options="-parameters" />
+      <module name="005-springboot-multi-environment-properties" options="-parameters" />
+      <module name="006-springboot-user-defined-configuration" options="-parameters" />
+      <module name="007-springboot-user-defined-configuration-object1" options="-parameters" />
+      <module name="008-springboot-jsp" options="-parameters" />
+      <module name="009-springboot-mybatis" options="-parameters" />
+      <module name="010-springboot-mybatis2" options="-parameters" />
+      <module name="011-springboot-mybatis3" options="-parameters" />
+      <module name="012-springboot-mybatis4" options="-parameters" />
+      <module name="013-springboot-transaction" options="-parameters" />
+      <module name="014-springboot-springmvc-annotation" options="-parameters" />
+      <module name="015-springboot-redis" options="-parameters" />
+      <module name="016-springboot-dubbo" options="-parameters" />
+      <module name="018-springboot-dubbo-provider" options="-parameters" />
+      <module name="019-springboot-dubbo-consumer" options="-parameters" />
+      <module name="020-springboot-dubbo-mybatis-redis-spring-springmvc-jsp" options="-parameters" />
+      <module name="021-springboot-dubbo-ssm-interface" options="" />
+      <module name="022-springboot-dubbo-ssm-provicer" options="-parameters" />
+      <module name="023-springboot-dubbo-ssm-consumer" options="-parameters" />
+      <module name="024-springboot-interceptor" options="-parameters" />
+      <module name="025-springboot-filter" options="-parameters" />
+      <module name="026-springboot-character-encoding" options="-parameters" />
+      <module name="027-springboot-war" options="-parameters" />
+      <module name="028-springboot-jar" options="-parameters" />
+      <module name="029-springboot-thymeleaf-1" options="-parameters" />
+      <module name="030-springboot-expression" options="-parameters" />
+      <module name="032-springboot-dubbo-ssm-interface" options="-parameters" />
+      <module name="033-springboot-dubbo-ssm-provider" options="-parameters" />
+      <module name="034-springboot-dubbo-ssm-consumer" options="-parameters" />
+    </option>
+  </component>
+</project>

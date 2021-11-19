@@ -1,0 +1,13 @@
+springboot集成dubbo、mybatis、redis、spring、springmvc、jsp
+1、接口工程
+基于maven的java工程，存放实体bean和服务接口
+2、服务提供者
+基于maven的web工程，存放服务接口实现类，需将服务接口注册到注册中心
+服务接口实现类需要调用持久层，因此需要用到mybatis、redis
+依赖：mybatis、mysql驱动、redis、dubbo、zookeeper、接口工程
+核心配置文件：配置mysql数据库、配置redis、配置dubbo
+3、服务消费者
+基于maven的web工程，接收来自浏览器的请求，调用服务接口实现类
+将处理的结果响应到浏览器时需要用到jsp
+依赖：dubbo、zookeeper、接口工程、jsp解析依赖
+核心配置文件：配置dubbo、配置视图解析器

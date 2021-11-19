@@ -1,0 +1,2 @@
+1、定义一个拦截器：实现HandlerInterceptor接口，存放拦截逻辑
+2、定义一个配置类：实现WebMvcConfigurer接口，存放拦截和放行的url

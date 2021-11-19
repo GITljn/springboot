@@ -1,0 +1,4 @@
+需要引入springboot内嵌tomcat对jsp解析的依赖
+springboot默认使用的前端引擎是thymeleaf，
+springboot集成jsp时，需要手动指定jsp编译的位置
+springboot要求位置只能是META-INF/resources
