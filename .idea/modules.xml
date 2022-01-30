@@ -36,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/032-springboot-dubbo-ssm-interface/032-springboot-dubbo-ssm-interface.iml" filepath="$PROJECT_DIR$/032-springboot-dubbo-ssm-interface/032-springboot-dubbo-ssm-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/033-springboot-dubbo-ssm-provider/033-springboot-dubbo-ssm-provider.iml" filepath="$PROJECT_DIR$/033-springboot-dubbo-ssm-provider/033-springboot-dubbo-ssm-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/034-springboot-dubbo-ssm-consumer/034-springboot-dubbo-ssm-consumer.iml" filepath="$PROJECT_DIR$/034-springboot-dubbo-ssm-consumer/034-springboot-dubbo-ssm-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/035-springboot-springsecurity/035-springboot-springsecurity.iml" filepath="$PROJECT_DIR$/035-springboot-springsecurity/035-springboot-springsecurity.iml" />
     </modules>
   </component>
 </project>
